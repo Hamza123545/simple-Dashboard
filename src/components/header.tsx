@@ -19,7 +19,7 @@ export default function Header() {
       {/* logo section */}
       <div className="flex items-center justify-between space-x-3">
         <Shell className="w-10 h-10" />
-        <h1 className="text-2xl font-bold">MyBnB</h1>
+        <h1 className="text-2xl font-bold">Hamza</h1>
       </div>
       {/* navigation section */}
       <nav className="xxs:hidden md:block flex items-center justify-between space-x-6">
