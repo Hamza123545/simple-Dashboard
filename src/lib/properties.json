@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "address": "196 Kansas Avenue",
+    "type": "Apartment",
+    "status": "Available",
+    "price": 2179.78,
+    "checkInDate": "2024-03-20",
+    "checkOutDate": "2024-03-27",
+    "imageUrl": "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "2",
+    "address": "917 Garden Street",
+    "type": "House",
+    "status": "Rented",
+    "price": 2179.78,
+    "checkInDate": "2024-03-20",
+    "checkOutDate": "2024-03-27",
+    "imageUrl": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "3",
+    "address": "568 Gotham Center",
+    "type": "Commercial",
+    "status": "Available",
+    "price": 2179.78,
+    "checkInDate": "2024-03-20",
+    "checkOutDate": "2024-03-27",
+    "imageUrl": "https://images.pexels.com/photos/11421543/pexels-photo-11421543.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "4",
+    "address": "123 Main Street",
+    "type": "Apartment",
+    "status": "Available",
+    "price": 1500.0,
+    "checkInDate": "2024-04-15",
+    "checkOutDate": "2024-04-30",
+    "imageUrl": "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "5",
+    "address": "456 Oak Avenue",
+    "type": "House",
+    "status": "Rented",
+    "price": 2800.0,
+    "checkInDate": "2024-05-01",
+    "checkOutDate": "2024-05-15",
+    "imageUrl": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "6",
+    "address": "789 Elm Street",
+    "type": "Commercial",
+    "status": "Available",
+    "price": 3500.0,
+    "checkInDate": "2024-06-01",
+    "checkOutDate": "2024-06-30",
+    "imageUrl": "https://images.pexels.com/photos/29613902/pexels-photo-29613902/free-photo-of-charming-london-bookstore-in-sunlit-street.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "7",
+    "address": "101 Pine Road",
+    "type": "Apartment",
+    "status": "Rented",
+    "price": 1800.0,
+    "checkInDate": "2024-07-04",
+    "checkOutDate": "2024-07-18",
+    "imageUrl": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "8",
+    "address": "202 Maple Lane",
+    "type": "House",
+    "status": "Available",
+    "price": 3200.0,
+    "checkInDate": "2024-08-01",
+    "checkOutDate": "2024-08-31",
+    "imageUrl": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "9",
+    "address": "303 Cedar Drive",
+    "type": "Commercial",
+    "status": "Rented",
+    "price": 4000.0,
+    "checkInDate": "2024-09-10",
+    "checkOutDate": "2024-09-25",
+    "imageUrl": "https://images.pexels.com/photos/11269532/pexels-photo-11269532.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "10",
+    "address": "404 Walnut Street",
+    "type": "Apartment",
+    "status": "Available",
+    "price": 1650.0,
+    "checkInDate": "2024-10-15",
+    "checkOutDate": "2024-10-31",
+    "imageUrl": "https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "11",
+    "address": "505 Willow Lane",
+    "type": "House",
+    "status": "Rented",
+    "price": 2950.0,
+    "checkInDate": "2024-11-01",
+    "checkOutDate": "2024-11-15",
+    "imageUrl": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "12",
+    "address": "606 Birch Avenue",
+    "type": "Commercial",
+    "status": "Available",
+    "price": 3800.0,
+    "checkInDate": "2024-12-01",
+    "checkOutDate": "2024-12-31",
+    "imageUrl": "https://images.pexels.com/photos/29818161/pexels-photo-29818161/free-photo-of-charming-english-bookstore-entrance-in-vintage-style.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "13",
+    "address": "707 Oak Street",
+    "type": "Apartment",
+    "status": "Rented",
+    "price": 1750.0,
+    "checkInDate": "2025-01-10",
+    "checkOutDate": "2025-01-25",
+    "imageUrl": "https://images.pexels.com/photos/1776574/pexels-photo-1776574.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "14",
+    "address": "808 Maple Road",
+    "type": "House",
+    "status": "Available",
+    "price": 3100.0,
+    "checkInDate": "2025-02-01",
+    "checkOutDate": "2025-02-28",
+    "imageUrl": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "15",
+    "address": "909 Cedar Avenue",
+    "type": "Commercial",
+    "status": "Rented",
+    "price": 3900.0,
+    "checkInDate": "2025-03-15",
+    "checkOutDate": "2025-03-31",
+    "imageUrl": "https://images.pexels.com/photos/4405239/pexels-photo-4405239.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
